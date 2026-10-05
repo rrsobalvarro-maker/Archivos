@@ -1,0 +1,37 @@
+Nota 1: 90.0
+Nota 2: 80.0
+Nota 3: 85.0
+
+--- RESULTADOS ---
+Promedio: 85.0
+Nota más alta: 90.0
+Nota más baja: 90.0
+
+Nota 1: 100.0
+Nota 2: 58.0
+Nota 3: 90.0
+Nota 4: 86.0
+
+--- RESULTADOS ---
+Promedio: 83.5
+Nota más alta: 100.0
+Nota más baja: 100.0
+
+Nota 1: 56.0
+Nota 2: 78.0
+Nota 3: 90.0
+
+--- RESULTADOS ---
+Promedio: 74.66666666666667
+Nota más alta: 90.0
+Nota más baja: 56.0
+
+Nota 1: 99.0
+Nota 2: 100.0
+Nota 3: 78.0
+
+--- RESULTADOS ---
+Promedio: 92.33333333333333
+Nota más alta: 100.0
+Nota más baja: 99.0
+

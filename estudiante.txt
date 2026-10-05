@@ -1,0 +1,19 @@
+Nombre: Roberto Rafael
+Apellidos: Sobalvarro Gutierrez
+Edad: 18
+Carrera: Ingenieria En Sistema
+
+Nombre: Giovanella Belen
+Apellidos: Rivas Carcamo
+Edad: 17
+Carrera: Ingenieria Industrial
+
+Nombre: Johana Gutierrez
+Apellidos: Martinez
+Edad: 53
+Carrera: Administracion De Empresa
+
+Nombre: Roberto Jose
+Apellidos: Sobalvarro Barberena 
+Edad: 58
+Carrera: Administracion De Empresas
